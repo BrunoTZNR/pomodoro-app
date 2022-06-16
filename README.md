@@ -22,3 +22,7 @@ Fonte: https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-
 
 <p style="font-size: 1.25em;">Compatibilidade: Chrome, FireFox, Opera, Safari, IE.</p>
 <p style="font-size: 1.25em;">Tecnológias: JavaScript, HTML5, CSS3.</p>
+
+## PROTÓTIPO
+
+[Imgur](https://i.imgur.com/IWPSppm.png)
