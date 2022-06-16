@@ -25,4 +25,5 @@ Fonte: https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-
 
 ## PROTÓTIPO
 
-[Imgur](https://i.imgur.com/IWPSppm.png)
+<p>Protótipo em constante evolução.</p>
+<img src="https://i.imgur.com/IWPSppm.png">
